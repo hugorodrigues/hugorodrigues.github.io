@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/hugorodrigues
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hugorodrigues.com
+  * I am hugorodrigues (https://keybase.io/hugorodrigues) on keybase.
+  * I have a public key with fingerprint A38F FD2F 5860 FE51 E544  4DCD A02F 8728 0D86 7B2F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101482efb4fe5754945d10867c844c534978a740a6b8abb1be1c8b769efeec2ee890a",
+            "fingerprint": "a38ffd2f5860fe51e5444dcda02f87280d867b2f",
+            "host": "keybase.io",
+            "key_id": "a02f87280d867b2f",
+            "kid": "0101482efb4fe5754945d10867c844c534978a740a6b8abb1be1c8b769efeec2ee890a",
+            "uid": "345b314aa8dae0b0556c35d7a968fc19",
+            "username": "hugorodrigues"
+        },
+        "service": {
+            "hostname": "www.hugorodrigues.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467824050,
+    "expire_in": 157680000,
+    "prev": "8d335ad420aea9aed9daa69c846e5118e37ba0d70cd01ded8e239b2f7fc038ad",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIyAnicrZJbSBVBGMeP9zoQSKWUhNFilweR2d3Z3dkTZERGecICu4hEh9md2eOi
+nj3t2eOp7ITYldQupPlQSWkF9tC9JKGLFQUalqCUJUF0M8qoqCCibFbsIeixeRlm
+5v/9vu/7z3dnUpLHm+DPKg/PHvA1J/R0nYx61saVC9WcZpFNnK+aK6djG60gNOIE
+yk3C+TjAAx4igRoaNKikSFCFEuEBkhUdQahLIlQVhBUIsKwhrGm8RnkdaYqsUoNS
+XaAUqQBzuZxhhoLUDttmyGFYLCLDIIIhIRkwLk8lCCHRCQaCgRQBAcIyaILBAsus
+iBvBitNwhOaZFrtjh8BYef/Q/+e6o2M4EUqayEOMEcEUaECSZF2UiIJVGRk6r7rC
+CLVDuJIydVk0aNkWsc1glEa4eC7HnqpMnbruuu2My2KxWN5f0jzdqmSksG05lm5V
+uCTHCUd8LsLZFB6LoVpgnBbQzBBhrrKIKmpHTCvE+Xim1B3TxfNQVpAAgQRyObox
+bNo0YLoKSZERYMvNQ6sYEhFRlDCBAsAUq5gSlWAsq8wnmf0Mj6ioaBgQBegE8IQS
+RAVRZV4rhg5EhAnn9rchZHE+iZWJgwwZMYMh7ERtysVv3VyX7EnwelJTEt1p83gn
+pv+ZwdQHaaPBFZ+FnPDz0q65scSHW1/dho1y26VzO5dnN3gHZ34fObwvreBHkn91
+a9e1/mnKnMqk2nOZQwVNVxLnr3GUjovbVh8b+WgX7nhb39Z/+tOLHx/Oj+YXxQ68
+WzZEihr3pqn5u5Mbyi9P9XLvJ7fvmjG8qOnNBOvulsLswZr219ktKQMX1o9e75E6
+ulamlhW/fNTQXbotK8+fVPum7/iZOm/rjfqczRP8uQvulfx8dfH8wuLhb1/iz2ra
+7886vn97Z8bVPQsegKXLujubpKy1rb0f6ozB6vwTmUePnJ2+ZOvTvoOLM5rleErV
+5CdfyeNTv/RV20vejx764l/aKUyp6W0pOJSe/Czj9LzfVeNJeA==
+=N4V6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hugorodrigues
+
+==================================================================
