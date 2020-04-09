@@ -1,62 +1,43 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
-    <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>hugo rodrigues</title>
+    <style>
+      html,
+      body {
+        margin: 0px;
+        padding: 0px;
+        background-color: black;
+        height: 100%;
+      }
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hugo Rodrigues | Hybrid Full-stack Developer and UX Designer.">
-    <title>Hugo Rodrigues</title>
+      body {
+        background-image: url("./img/background.gif");
+        background-size: cover;
+        background-position: center center;
+      }
 
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,800,700,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
-    <link rel="stylesheet" href="css/style.css">
+      #container {
+        width: 100%;
+        height: 100%;
+      }
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-    <!--[if lt IE 9]>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
-    <![endif]-->
-    
-</head>
-<body>
-    <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+      #content {
+        width: 100%;
+        height: 100%;
 
-
-
-
-
-
-    <div  class="homepage" id="profile">
-        <img id="hrPic" src="//avatars2.githubusercontent.com/u/200268?s=460"> <br/>
-
-        <h1>Hugo Rodrigues</h1>
-        <div class="tagline">Figuring things out in the<br/>intersection of code and design</div>
-        
-        <ul>
-            <li style="display:none"><a href="http://twitter.com/hugorodrigues" target="_blank"><span class="icon-twitter"></span> </a></li>
-            <li><a href="http://github.com/hugorodrigues" target="_blank"><span class="icon-github"></span></a></li>
-            <li style="display:none"><a href="http://pt.linkedin.com/in/hugor/" target="_blank"><span class="icon-linkedin"></span> </a></li>
-            <li><a href="mailto:me@hugorodrigues.com"><span class="icon-mail"></span></a></li>
-
-        </ul>
+        background-image: url("./img/hr.jpg");
+        background-size: cover;
+        background-position: center center;
+        opacity: 0.05;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="content" onclick="window.location = 'mailto:hello@hugorodrigues.com'"></div>
     </div>
-  
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-50817909-1', 'hugorodrigues.com');
-  ga('send', 'pageview');
-
-</script>
-
-</body>
+  </body>
 </html>
